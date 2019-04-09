@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "lib.common",
+      "pkg": "io.github.iamyours.lib.common"
+    },
+    {
+      "uri": "main",
+      "pkg": "io.github.iamyours.app.main"
+    }
+  ]
+}
